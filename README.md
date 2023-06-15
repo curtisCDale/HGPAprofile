@@ -3,8 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
-   
-###  <img src="/images/codergif.gif" alt="developer gif"  height="160px">  About Me:
+<p align="center">
+  ###  <img src="/images/codergif.gif" alt="developer gif"  height="160px">  About Me:
+</p>
 <p align="left">
   Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
   <br>
