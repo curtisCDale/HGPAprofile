@@ -24,7 +24,7 @@
 <a href="https://codepen.io/curtisDale"><img height="40px" src="images/iconcodepen.png"></a>
 <br>
 
-<h2>🛠️ Skills</h2>
+<h2>🛠️ Tools, Frameworks, Languages, Skills</h2>
 <p>
   <img title="React" height="40" src="images/skillreact.png">
   <img title="Angular" height="40" src="images/skillangular.png">
