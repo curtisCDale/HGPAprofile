@@ -1,7 +1,4 @@
-<p  align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=3000&pause=1000&color=2069B3&center=false&vCenter=true&width=435&lines=Welcome+to+my+Github++%F0%9F%98%8A;Nice+to+meet+you+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</p>
+<h1>Hi 😁 I'm Curtis</h1>
 <ul>
   <li>
     📬 Contact me at <a href="mailto:contact@curtisdale.ca">contact@curtisdale.ca</a>
