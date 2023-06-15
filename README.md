@@ -14,13 +14,13 @@
   </li>
 </ul>
 <br>
-
+<br>
 <h2>👋 Socials </h2>
 <a href="https://www.linkedin.com/in/curtis-c-dale/"><img height="40px" src="images/linkedin.svg"></a>
 <a href="https://twitter.com/Curtiwurti"><img height="40px" src="images/icontwitter.png"></a>
 <a href="https://codepen.io/curtisDale"><img height="40px" src="images/iconcodepen.png"></a>
 <br>
-
+<br>
 <h2>🛠️ Tools, Frameworks, Languages, Skills</h2>
 <p>
   <img title="React" height="40" src="images/skillreact.png">
