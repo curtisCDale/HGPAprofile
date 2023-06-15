@@ -7,7 +7,7 @@
     📬 Contact me at <a href="mailto:contact@curtisdale.ca">contact@curtisdale.ca</a>
   </li>
   <li>
-    🎓 Currently learning Data structures and Algorithms
+    🎓 Currently learning Data structures and Algorithms.
   </li>
   <li>
     🤝  Open to collaborating on interesting projects.
@@ -18,7 +18,7 @@
 </ul>
 <br>
 
-<h2>Socials</h2>
+<h2>👥 Socials 👥</h2>
 <a href="https://www.linkedin.com/in/curtis-c-dale/"><img height="40px" src="images/linkedin.svg"></a>
 <a href="https://twitter.com/Curtiwurti"><img height="40px" src="images/icontwitter.png"></a>
 <a href="https://codepen.io/curtisDale"><img height="40px" src="images/iconcodepen.png"></a>
