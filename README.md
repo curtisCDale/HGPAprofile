@@ -31,7 +31,7 @@
   <img title="Flask" height="40" src="images/skillflask.png">
   <img title="Rails" height="40" src="images/skillrails.jpg">
   <img title=".Net" height="40" src="images/skilldotnet.png">
-  <img title="NodeJs" height="40" src="images/skillnode.png">
+  <img title="NodeJs" height="40" src="images/skillnode.jpg">
   <img title="ExpressJs" height="40" src="images/skillexpress.png">
   <img title="Django" height="40" src="images/skilldjango.svg">
   <img title="JSON" height="40" src="images/skilljson.png">
@@ -50,7 +50,7 @@
   <img title="Git" height="40" src="images/skillgit.png">
   <img title="Github" height="40" src="images/skillgithub.png">
   <img title="Stack Overflow" height="40" src="images/stackoverflow.svg">
-  <img title="VsCode" height="40" src="images/skillvscode.png">
+  <img title="VsCode" height="40" src="images/skillvscode.jpeg">
   <img title="Unity" height="40" src="images/skillunity.png">
 </p>
 <br>
