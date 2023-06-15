@@ -5,7 +5,7 @@
 </h1>
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
-<p align="center">
+<p align="left">
   Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
   <br>
   <br>
