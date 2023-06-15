@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center" margin-bottom="-20px">
   <img src="/images/codergif.gif" alt="developer gif"  height="160px">
 </p>
 <p  align="center">
