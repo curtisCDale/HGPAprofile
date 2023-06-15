@@ -22,13 +22,12 @@
 <a href="https://www.linkedin.com/in/curtis-c-dale/"><img height="40px" src="images/linkedin.svg"></a>
 <a href="https://twitter.com/Curtiwurti"><img height="40px" src="images/icontwitter.png"></a>
 <a href="https://codepen.io/curtisDale"><img height="40px" src="images/iconcodepen.png"></a>
-<hr>
+<br>
+
 <h2>🔥 Languages & Frameworks & Tools & Abilities</h2>
 <p>
-<!--   <code><img title="C" height="25" src="images/c.svg"></code> -->
   <img title="C++" height="25" src="images/cpp.svg"></code>
   <img title="Problem Solving" height="25" src="images/problemSolving.png">
-<!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
   <img title="Python" height="25" src="images/python-original.svg">
   <img title="Numpy" height="25" src="images/numpy.svg">
   <img title="Pandas" height="25" src="images/pandas.svg">
@@ -42,17 +41,13 @@
   <img title="Git" height="25" src="images/git-original.svg">
   <img title="GitHub" height="25" src="images/github.svg">
   <img title="Visual Studio Code" height="25" src="images/vscode.png">
-<!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 </p>
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
+<h2>⚡ Stats</h2>
 
-
-<p align="center">
-<a href="https://github.com/HalemoGPA/">
+<p>
+<a href="https://github.com/curtis-c-dale/">
       <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
 </p>
