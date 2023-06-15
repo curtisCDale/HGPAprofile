@@ -20,7 +20,7 @@
 <br>
 
 <h2>My Links</h2>
-<a><img src="images/linkedin.svg"></a>
+<a><img height="40px" src="images/linkedin.svg"></a>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
