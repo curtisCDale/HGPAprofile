@@ -40,6 +40,7 @@
   <img title="Mongo DB Atlas" height="40" src="images/skillmongo.png">
   <br>
   <img title="Selenium" height="40" src="images/skillselenium.png">
+  <img title="Beautiful Soup" height="40" src="images/skillsoup.png">
   <br>
   <img title="HTML5" height="40" src="images/skillhtml.png">
   <img title="CSS" height="40" src="images/skillcss.png">
