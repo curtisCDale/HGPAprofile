@@ -5,7 +5,7 @@
 <h2>About Me</h2>
 <ul>
   <li>
-    📬 Contact me at <a href="contact@curtisdale.ca">contact@curtisdale.ca</a>
+    📬 Contact me at <a href="mailto:contact@curtisdale.ca">contact@curtisdale.ca</a>
   </li>
   <li>
     🎓 Currently learning Data structures and Algorithms
