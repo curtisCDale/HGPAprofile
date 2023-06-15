@@ -4,8 +4,9 @@
   </a>
 </h1>
 <p align="center">
-  ###  <img src="/images/codergif.gif" alt="developer gif"  height="160px">  About Me:
+  <img src="/images/codergif.gif" alt="developer gif"  height="160px">
 </p>
+<h2>About Me</h2>
 <p align="left">
   Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
   <br>
