@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=3000&pause=1000&color=2069B3&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github++%F0%9F%98%8A;Nice+to+meet+you+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </p>
-<h2>About Me</h2>
+<h2>About</h2>
 <ul>
   <li>
     📬 Contact me at <a href="mailto:contact@curtisdale.ca">contact@curtisdale.ca</a>
@@ -19,8 +19,9 @@
 </ul>
 <br>
 
-<h2>My Links</h2>
-<a><img height="40px" src="images/linkedin.svg"></a>
+<h2>Socials</h2>
+<a href="https://www.linkedin.com/in/curtis-c-dale/"><img height="40px" src="images/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/curtis-c-dale/"><img height="40px" src="images/twitter.svg"></a>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
