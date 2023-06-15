@@ -4,7 +4,7 @@
   </a>
 </h1>
    
-###  <img align="center" src="/images/codergif.gif" alt="developer gif"  height="80px">  About Me:
+###  <img src="/images/codergif.gif" alt="developer gif"  height="160px">  About Me:
 <p align="left">
   Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
   <br>
