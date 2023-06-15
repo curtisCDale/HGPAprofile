@@ -22,6 +22,7 @@
 <h2>Socials</h2>
 <a href="https://www.linkedin.com/in/curtis-c-dale/"><img height="40px" src="images/linkedin.svg"></a>
 <a href="https://twitter.com/Curtiwurti"><img height="40px" src="images/icontwitter.png"></a>
+<a href="https://codepen.io/curtisDale"><img height="40px" src="images/iconcodepen.png"></a>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
