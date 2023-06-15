@@ -14,7 +14,6 @@
   </li>
 </ul>
 <br>
-<br>
 <h2>👋 Socials </h2>
 <a href="https://www.linkedin.com/in/curtis-c-dale/"><img height="40px" src="images/linkedin.svg"></a>
 <a href="https://twitter.com/Curtiwurti"><img height="40px" src="images/icontwitter.png"></a>
