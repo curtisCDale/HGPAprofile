@@ -1,7 +1,3 @@
-
-<p align="center">
-  <img src="/images/codergif.gif" alt="developer gif"  height="160px">
-</p>
 <p  align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=20">
