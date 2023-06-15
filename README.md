@@ -30,23 +30,30 @@
   <img title="Angular" height="40" src="images/skillangular.png">
   <img title="Flask" height="40" src="images/skillflask.png">
   <img title="Rails" height="40" src="images/skillrails.jpg">
+  <br>
   <img title=".Net" height="40" src="images/skilldotnet.png">
   <img title="NodeJs" height="40" src="images/skillnode.jpg">
   <img title="ExpressJs" height="40" src="images/skillexpress.png">
   <img title="Django" height="40" src="images/skilldjango.svg">
+  <br>
   <img title="JSON" height="40" src="images/skilljson.png">
   <img title="Mongo DB Atlas" height="40" src="images/skillmongo.png">
+  <br>
   <img title="Selenium" height="40" src="images/skillselenium.png">
+  <br>
   <img title="HTML5" height="40" src="images/skillhtml.png">
   <img title="CSS" height="40" src="images/skillcss.png">
-  <img title="SCSS" height="40" src="images/skillsass.png">
   <img title="JS" height="40" src="images/skilljs.png">
+  <br>
   <img title="Typescript" height="40" src="images/skilltypescript.svg">
   <img title="C#" height="40" src="images/skillcsharp.png">
   <img title="Python" height="40" src="images/skillpython.png">
+  <br>
+  <img title="SCSS" height="40" src="images/skillsass.png">
   <img title="Material UI" height="40" src="images/skillmaterial.png">
   <img title="Ant UI" height="40" src="images/skillant.png">
   <img title="Bootstrap" height="40" src="images/skillbootstrap.png">
+  <br>
   <img title="Git" height="40" src="images/skillgit.png">
   <img title="Github" height="40" src="images/skillgithub.png">
   <img title="Stack Overflow" height="40" src="images/stackoverflow.svg">
